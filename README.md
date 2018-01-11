@@ -4,5 +4,6 @@ A simple hybrid reddit posts app using Ionic framework.
 -Ionic
 ## Features         
 -Get the reddits posts of a particular category.    
--Choose between various categories.    
+-Choose between various categories.     
+-Limit the number of posts.   
 -Go to the actual reddit page on the website of that post.   
