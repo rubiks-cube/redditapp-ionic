@@ -51,7 +51,8 @@ getDefaults(){
      }
 }
 
-  ngOnInit(){
+  ionViewWillEnter(){
+  	this.getDefaults();
   	this.getPosts(this.category,this.limit);
   }
 
